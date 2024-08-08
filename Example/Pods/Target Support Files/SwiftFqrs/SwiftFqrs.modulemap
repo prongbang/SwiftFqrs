@@ -1,0 +1,6 @@
+framework module SwiftFqrs {
+  umbrella header "SwiftFqrs-umbrella.h"
+
+  export *
+  module * { export * }
+}

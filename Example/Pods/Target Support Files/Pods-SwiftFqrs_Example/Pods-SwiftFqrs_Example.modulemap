@@ -1,0 +1,6 @@
+framework module Pods_SwiftFqrs_Example {
+  umbrella header "Pods-SwiftFqrs_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

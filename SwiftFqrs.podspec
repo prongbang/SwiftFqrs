@@ -30,7 +30,10 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '10.0'
 
-  s.source_files = 'SwiftFqrs/Classes/**/*'
+  s.static_framework      = true
+  s.source_files          = 'SwiftFqrs/Classes/**/*'
+  s.public_header_files   = 'SwiftFqrs/Classes/**/*.h'
+  s.vendored_libraries    = "SwiftFqrs/Classes/**/*.a"
   
   # s.resource_bundles = {
   #   'SwiftFqrs' => ['SwiftFqrs/Assets/*.png']

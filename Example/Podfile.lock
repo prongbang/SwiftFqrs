@@ -1,0 +1,16 @@
+PODS:
+  - SwiftFqrs (0.1.0)
+
+DEPENDENCIES:
+  - SwiftFqrs (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftFqrs:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwiftFqrs: d766bacb8368a88856e834d58138c887c4d1e0f5
+
+PODFILE CHECKSUM: 49543eb3e6bd6c58c3debb9de5e95c2119936047
+
+COCOAPODS: 1.15.2

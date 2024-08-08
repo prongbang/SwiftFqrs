@@ -7,7 +7,26 @@
 
 ## Example
 
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
+- Ipen project
+
+```shell
+open 'SwiftFqrs/Example/SwiftFqrs.xcworkspace' 
+```
+
+- Install
+
+```shell
+pod install
+```
+
+- Develop
+
+```shell
+Pod
+ - Development Pods
+    - SwiftFqrs
+       - QRDecoder.swift
+```
 
 ## Requirements
 
@@ -19,11 +38,3 @@ it, simply add the following line to your Podfile:
 ```ruby
 pod 'SwiftFqrs'
 ```
-
-## Author
-
-prongbang, prongbang@gmail.com
-
-## License
-
-SwiftFqrs is available under the MIT license. See the LICENSE file for more info.
