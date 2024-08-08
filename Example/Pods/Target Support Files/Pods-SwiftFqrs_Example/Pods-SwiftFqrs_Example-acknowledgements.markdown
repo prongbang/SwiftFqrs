@@ -3,7 +3,7 @@ This application makes use of the following third party libraries:
 
 ## SwiftFqrs
 
-Copyright (c) 2024 prongbang <prongbang@gmail.com>
+Copyright (c) 2024 prongbang
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
